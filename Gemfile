@@ -27,6 +27,7 @@ gem 'simple_form', '~> 3.2', '>= 3.2.1'
 gem 'paperclip', '~> 5.0'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'cocoon', '~> 1.2', '>= 1.2.9'
+gem 'devise', '~> 4.2'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
